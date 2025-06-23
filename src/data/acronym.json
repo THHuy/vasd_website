@@ -1,0 +1,22 @@
+[
+  {
+    "letter": "V",
+    "rest": "ietNam",
+    "img": "/assets/images/V.png"
+  },
+  {
+    "letter": "A",
+    "rest": "pplication",
+    "img": "/assets/images/A.png"
+  },
+  {
+    "letter": "S",
+    "rest": "oftware",
+    "img": "/assets/images/S.png"
+  },
+  {
+    "letter": "D",
+    "rest": "eveloper",
+    "img": "/assets/images/D.png"
+  }
+]

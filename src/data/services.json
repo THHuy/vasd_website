@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "icon": "hospital",
+        "title": "Phần Mềm Quản Lý Thông Tin Bệnh Nhân (HIS)",
+        "tagline": "Chuyên Nghiệp. Hiệu Quả. Linh Hoạt.",
+        "description": "Giải pháp phần mềm quản lý thông tin bệnh nhân hàng đầu, giúp các cơ sở y tế tối ưu hóa hoạt động và cung cấp dịch vụ chăm sóc sức khỏe tốt nhất cho bệnh nhân.",
+        "features": [
+            "Quản lý hồ sơ bệnh nhân đơn giản và hiệu quả",
+            "Theo dõi lịch sử bệnh án và tiến triển tự động",
+            "Tích hợp hệ thống tư vấn y tế để cung cấp thông tin chính xác và nhanh chóng",
+            "Bảo mật thông tin bệnh nhân với tiêu chuẩn bảo vệ dữ liệu hàng đầu"
+        ],
+        "customization": "Phù hợp với mọi loại cơ sở y tế từ phòng khám nhỏ đến bệnh viện lớn.",
+        "benefits": "Giảm thiểu thủ tục hành chính và tối ưu hóa quy trình làm việc",
+        "motto": "Connection, Inspiration and Motivation to help you find the way"
+    },
+    {
+        "id": 2,
+        "icon": "chart",
+        "title": "Phần Mềm Bệnh Án Điện Tử (EMR)",
+        "tagline": "Quản lý thông tin bệnh nhân một cách hiệu quả và an toàn",
+        "description": "EMR là giải pháp phần mềm tiên tiến giúp cơ sở y tế quản lý, lưu trữ và truy cập thông tin bệnh nhân tự động và tiện lợi.",
+        "features": [
+            "Bảo mật và an toàn: dữ liệu bệnh nhân được lưu trữ an toàn, tránh mất mát và truy cập trái phép",
+            "Tiết kiệm thời gian: truy cập nhanh lịch sử bệnh án và kết quả xét nghiệm",
+            "Tăng cường tương tác: chia sẻ thông tin liền mạch giữa bác sĩ, y tá và nhân viên hành chính",
+            "Tính đa dạng và tùy chỉnh: giao diện và chức năng có thể điều chỉnh theo nhu cầu từng cơ sở y tế"
+        ],
+        "applications": [
+            "Bệnh viện & phòng mạch: quản lý thông tin bệnh nhân, lịch hẹn và kết quả xét nghiệm",
+            "Phòng khám & trung tâm y tế: ghi chép và theo dõi lịch sử bệnh án, đặt lịch hẹn, tạo hồ sơ điện tử"
+        ],
+        "motto": "EMR – Hiệu quả, An toàn, Kết nối"
+    },
+    {
+        "id": 3,
+        "icon": "shield",
+        "title": "Phần Mềm Chữ Ký Điện Tử (BSign)",
+        "tagline": "Giải pháp an toàn và hiệu quả cho EMR",
+        "description": "Phần mềm chữ ký điện tử tích hợp trong EMR, cho phép ký và xác thực tài liệu y tế một cách bảo mật và nhanh chóng.",
+        "features": [
+            "Bảo mật tuyệt đối: mã hóa mạnh mẽ, kiểm soát truy cập chặt chẽ",
+            "Dễ sử dụng & linh hoạt: giao diện thân thiện, phù hợp với nhiều loại tài liệu",
+            "Tích hợp dễ dàng: kết nối trực tiếp với hệ thống EMR hiện có",
+            "Tăng hiệu quả: rút ngắn quy trình ký duyệt, giảm giấy tờ thủ công"
+        ],
+        "callToAction": "Liên hệ ngay để nâng cấp quy trình ký duyệt điện tử trong EMR",
+        "motto": "BSign – An toàn, Nhanh chóng, Tiện lợi"
+    }
+]
