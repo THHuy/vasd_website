@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { Heart, Menu, X, Phone, Mail, MapPin } from "lucide-react";
-
+import { Menu, X, Phone, Mail, MapPin } from "lucide-react";
+import logoCompany from "/public/assets/images/logo_company.png";
 const links = [
   { label: "Trang Chủ", target: "home" },
   { label: "Thống Kê", target: "stats" },
@@ -38,8 +38,8 @@ function Navbar() {
       </div>
       <nav className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center space-x-4">
-          <div className="w-12 h-12 bg-gradient-to-r from-blue-600 to-purple-600 rounded-xl flex items-center justify-center">
-            <Heart className="w-6 h-6 text-white" />
+          <div className="w-12 h-12  rounded-xl flex items-center justify-center">
+            <img src={logoCompany} alt="logo" />
           </div>
           <div>
             <h1 className="text-2xl font-bold text-gray-800">VASD</h1>
